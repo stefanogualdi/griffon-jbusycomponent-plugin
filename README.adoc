@@ -2,4 +2,4 @@
 
 :project-name: griffon-jbusycomponent-plugin
 
-Porting to grails 2.5.0 of https://github.com/griffon/griffon-jbusycomponent-plugin
+Porting to Griffon 2.5.0 of https://github.com/griffon/griffon-jbusycomponent-plugin
