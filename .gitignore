@@ -1,0 +1,14 @@
+.DS_Store
+.gradle
+build/
+
+.idea/
+*.iml
+*.ipr
+*.iws
+/out/
+
+.lazybones/
+
+local.properties
+publish.sh

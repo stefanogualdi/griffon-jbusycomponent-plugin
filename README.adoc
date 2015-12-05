@@ -1,0 +1,5 @@
+= griffon-jbusycomponent-plugin
+
+:project-name: griffon-jbusycomponent-plugin
+
+Porting to grails 2.5.0 of https://github.com/griffon/griffon-jbusycomponent-plugin
